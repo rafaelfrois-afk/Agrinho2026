@@ -3,7 +3,8 @@
 
 ## Descrição
 
-**Agro e Vida** é um projeto de site responsivo desenvolvido com **HTML5**, **CSS3** e **JavaScript puro (Vanilla JS)**.
+**Agro e Vida** é um projeto de site responsivo desenvolvido com **HTML**, **CSS
+** e **JavaScript puro (Vanilla JS)**.
 
 O objetivo é apresentar informações sobre agricultura, sustentabilidade, inovação tecnológica no campo e qualidade de vida rural por meio de uma interface moderna, acessível e intuitiva.
 
@@ -13,9 +14,9 @@ O projeto foi construído sem o uso de frameworks ou bibliotecas externas, garan
 
 ## Tecnologias Utilizadas
 
-* HTML5
-* CSS3
-* JavaScript (Vanilla JS)
+* HTML
+* CSS
+* JavaScript 
 
 ---
 
